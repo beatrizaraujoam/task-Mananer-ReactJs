@@ -14,3 +14,9 @@ Entendendo como funcionam alguns Hooks do React
 ## Gerenciador de Tarefas em reactJs:
 
 ### Aplicação:
+
+
+
+
+
+Direitos de Cod- Curso via: https://www.youtube.com/watch?v=ErjWNvP6mko
