@@ -1,5 +1,4 @@
-# React Hooks <img src="./public/React.svg.png" width="150px" style="position: absolute; right: 10px">
-
+# React - Task Manager in ReactJs <img src="./public/logo192.png" width="35px" style="position: absolute; right: 10px;" >
 Entendendo como funcionam alguns Hooks do React
 <hr>
 
